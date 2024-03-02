@@ -1,1 +1,1 @@
-# git_js
+This is for JavaScript
